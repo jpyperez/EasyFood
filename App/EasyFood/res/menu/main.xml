@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+        
+    <item
+        android:id="@+id/itmManual"
+        android:title="@string/manualapp"
+        />
+    
+       <item
+        android:id="@+id/itmDeslogar"
+        android:title="@string/deslogar"
+        />
+    
+     <item
+        android:id="@+id/itmSair"
+        android:title="@string/sair"
+        />
+
+</menu>

@@ -1,0 +1,5 @@
+C:\Users\fondict-03\Documents\C#\TextBoxAutoexplicativo\TextBoxAutoexplicativo\bin\Debug\TextBoxAutoexplicativo.dll
+C:\Users\fondict-03\Documents\C#\TextBoxAutoexplicativo\TextBoxAutoexplicativo\bin\Debug\TextBoxAutoexplicativo.pdb
+C:\Users\fondict-03\Documents\C#\TextBoxAutoexplicativo\TextBoxAutoexplicativo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fondict-03\Documents\C#\TextBoxAutoexplicativo\TextBoxAutoexplicativo\obj\Debug\TextBoxAutoexplicativo.dll
+C:\Users\fondict-03\Documents\C#\TextBoxAutoexplicativo\TextBoxAutoexplicativo\obj\Debug\TextBoxAutoexplicativo.pdb

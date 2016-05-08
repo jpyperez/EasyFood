@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyFood</string>
+    <string name="action_settings">Settings</string>
+    <string name="pgCidade">Qual é a cidade de entrega?</string>
+    <string name="pgLocal">Nos informe os seguintes dados:</string>
+    <string name="cidade">Cidade:</string>
+	<string name="bairro">Bairro:</string>
+	<string name="rua">Rua:</string>
+	<string name="num">Número:</string>
+    <string name="poa">Poá</string>
+    <string name="suzano">Suzano</string>
+    <string name="mogi">Mogi Das Cruzes</string>
+    <string name="ferraz">Ferraz de Vasconcelos</string>
+    <string name="proximo">Proximo</string>
+    <string name="pedir">Ver o Cardápio</string>
+    <string name="notificacao">Aviso: Se o nome da sua cidade não estiver acima, é porque não oferecemos serviços a mesma.</string>
+    <string name="pgPedido">Faça seu pedido:</string>
+    <string name="mais"> + </string>
+    <string name="menos"> - </string>
+    <string name="menu">Menu</string>
+    <string name="esfihacarne">Esfiha de Carne</string>
+    <string name="sair">Sair</string>
+    <string name="manualapp"> Como Usar o EasyFood </string>
+    <string name="verpedido">Pedido</string>
+    <string name="local">Como quer ser localizado?</string>
+    <string name="localizarautomaticamente">Localizar Automaticamente</string>
+    <string name="passarendereco">Cadastrar Endereço</string>
+    <string name="voltarparapedido">Voltar ao Cardápio</string>
+    <string name="codprod">Código:</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="pedirprod">Pedir Produto</string>
+    <string name="login">Entre com seu nome de usuário e senha.</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrar">Registrar</string>
+    <string name="ouregistrar">Ou crie sua conta</string>
+    <string name="nome">Nome</string>
+    <string name="manual">1 - Tela de Login\n\n
+
+Para efetuar o login e entrar no aplicativo basta digitar o 
+
+usuário e a senha nos campos especificados e tocar em Entrar. 
+
+Caso não possua um usuário basta tocar no botão Registrar logo 
+
+abaixo.\n\n
+
+2 - Registrar\n\n
+
+Para efetuar um registro digite os dados pedidos em cada campo. 
+
+O nome de usuário não pode estar em uso e a senha deve ter no 
+
+minimo 8 caracteres.\n\n
+
+3 - Seleção de cidade\n\n
+
+Nesta etapa é necessario que escolha uma cidade para efetuar a 
+
+entrega do pedido. Caso a lista não possua sua cidade é porque 
+
+não há empresas que ofereçam serviços a mesma. Após a seleção da 
+
+cidade toque em próximo.\n\n
+
+4 - Local de entrega\n\n
+
+Nesta etapa do seu pedido é necessario que indique o o local 
+
+mais especificamente para a entrega do seu pedido. Após informar 
+
+os dados toque em Ver cardápio.\n\n
+
+5 - Cardápio\n\n
+
+Aqui é onde sera efetuado o pedido em si. Escolha um produto 
+
+desejado e indique seu código no campo código e logo indique a 
+
+quantidade desejada do mesmo produto. Após informar os dados 
+
+necessarios toque em Pedir produto.\n\n
+
+6 - Dados da compra\n\n
+
+Nesta tela é possivel visualisar o local do pedido atual e os 
+
+produtos já pedido em sua conta.\n\n
+
+7 - Menu\n\n
+
+7.1 - Como Usar o EasyFood\n\n
+
+Aqui se encontra o manual de utilização do aplicativo.\n\n
+
+7.2 - Deslogar\n\n
+
+A função deslogar é para quem desejada sair de sua conta sem 
+
+sair do aplicativo.\n\n
+
+7.3 - Sair\n\n
+
+Toque nesta função para sair definitivamente do aplicativo.</string>
+    <string name="telefonecontato">Telefone Para Contato:</string>
+    <string name="cadastro">Digite os dados para se cadastrar</string>
+    <string name="codigo">Código</string>
+    <string name="valor">Valor</string>
+    <string name="historico">Histórico de Compras:</string>
+    <string name="localpedidoatual">Local do Pedido Atual:</string>
+    <string name="repitaasenha">Repita a senha</string>
+    <string name="deslogar">Deslogar</string>
+    <string name="dadosdecompra">Dados de Compra</string>
+    <string name="complemento">Complemento:</string>
+    <string name="numecomp">Número e Complemento:</string>
+
+</resources>

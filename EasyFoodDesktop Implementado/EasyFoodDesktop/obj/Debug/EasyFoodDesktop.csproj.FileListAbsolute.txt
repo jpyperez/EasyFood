@@ -1,0 +1,233 @@
+c:\users\ryuuzak\documents\visual studio 2012\Projects\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe.config
+C:\Users\Ryuuzak\Documents\Visual Studio 2012\Projects\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe
+C:\Users\Ryuuzak\Documents\Visual Studio 2012\Projects\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.pdb
+C:\Users\Ryuuzak\Documents\Visual Studio 2012\Projects\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMenu.resources
+C:\Users\Ryuuzak\Documents\Visual Studio 2012\Projects\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.Properties.Resources.resources
+C:\Users\Ryuuzak\Documents\Visual Studio 2012\Projects\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.csproj.GenerateResource.Cache
+C:\Users\Ryuuzak\Documents\Visual Studio 2012\Projects\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.exe
+C:\Users\Ryuuzak\Documents\Visual Studio 2012\Projects\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.pdb
+C:\Users\Ryuuzak\Documents\Visual Studio 2012\Projects\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarProdutos.resources
+C:\Users\Ryuuzak\Documents\Visual Studio 2012\Projects\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarTipoProdutos.resources
+C:\Users\Ryuuzak\Documents\Visual Studio 2012\Projects\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarPedidos.resources
+C:\Users\Ryuuzak\Documents\Visual Studio 2012\Projects\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirProdutos.resources
+C:\Users\Ryuuzak\Documents\Visual Studio 2012\Projects\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirTipoProdutos.resources
+C:\Users\Ryuuzak\Documents\Visual Studio 2012\Projects\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarProdutos.resources
+C:\Users\Ryuuzak\Documents\Visual Studio 2012\Projects\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarProdutos.resources
+C:\Users\Ryuuzak\Documents\Visual Studio 2012\Projects\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarTipoProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe.config
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.exe
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.pdb
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarTipoProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarTipoProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarPedidos.resources
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirTipoProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMenu.resources
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.pdb
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAjuda.resources
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmLogin.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAjuda.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarProdutos.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarUsuario.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarProdutos.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarPedidos.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarProdutos.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirProdutos.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmLogin.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMenu.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.Properties.Resources.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.csproj.GenerateResource.Cache
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe.config
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.pdb
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.exe
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.pdb
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarPedido.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarPedido.resources
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarUsuario.resources
+C:\Documents and Settings\Aluno\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMapa.resources
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe.config
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.pdb
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAjuda.resources
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarPedido.resources
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarProdutos.resources
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarTipoProdutos.resources
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarUsuario.resources
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarProdutos.resources
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarTipoProdutos.resources
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarPedidos.resources
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarProdutos.resources
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirProdutos.resources
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirTipoProdutos.resources
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmLogin.resources
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMapa.resources
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMenu.resources
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.Properties.Resources.resources
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.csproj.GenerateResource.Cache
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.exe
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.pdb
+C:\Users\André\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe.config
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.exe
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.pdb
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAjuda.resources
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarPedido.resources
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarProdutos.resources
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarUsuario.resources
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarProdutos.resources
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarPedidos.resources
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarProdutos.resources
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirProdutos.resources
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmLogin.resources
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMapa.resources
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMenu.resources
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.Properties.Resources.resources
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.csproj.GenerateResource.Cache
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.pdb
+C:\Users\Ryuuzak\Desktop\TCC\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.PrintOptions.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe.config
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.exe
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.pdb
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.pdb
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAjuda.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarPedido.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarTipoProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarUsuario.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarTipoProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarPedidos.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirTipoProdutos.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmLogin.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMapa.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMenu.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.PrintOptions.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.Properties.Resources.resources
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Aluno\Desktop\Projeto\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe.config
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.exe
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.pdb
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.pdb
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAjuda.resources
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarPedido.resources
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarProdutos.resources
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarUsuario.resources
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarProdutos.resources
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarPedidos.resources
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarProdutos.resources
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirProdutos.resources
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmLogin.resources
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMapa.resources
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMenu.resources
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.PrintOptions.resources
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.Properties.Resources.resources
+C:\Users\Ryuuzak\Desktop\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.csproj.GenerateResource.Cache
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe.config
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.exe
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.pdb
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.pdb
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAjuda.resources
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarPedido.resources
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarProdutos.resources
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarUsuario.resources
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarProdutos.resources
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarPedidos.resources
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarProdutos.resources
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirProdutos.resources
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmLogin.resources
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMapa.resources
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMenu.resources
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.PrintOptions.resources
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.Properties.Resources.resources
+C:\Users\Ryuuzak\Desktop\tcc 1\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.csproj.GenerateResource.Cache
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMapa.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.PrintOptions.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe.config
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.exe
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.pdb
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAjuda.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarPedido.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarProdutos.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarUsuario.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarProdutos.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarPedidos.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarProdutos.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirProdutos.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmLogin.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMapa.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMenu.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.PrintOptions.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.Properties.Resources.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.csproj.GenerateResource.Cache
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.pdb
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarUsuário.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirUsuario.resources
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\bin\Debug\TextBoxAutoexplicativo.dll
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\bin\Debug\TextBoxAutoexplicativo.pdb
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarUsuarios.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe.config
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.exe
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\bin\Debug\EasyFoodDesktop.pdb
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\bin\Debug\TextBoxAutoexplicativo.dll
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\bin\Debug\TextBoxAutoexplicativo.pdb
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAjuda.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarPedido.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarProdutos.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmAlterarUsuário.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarUsuario.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarProdutos.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmCadastrarTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarPedidos.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarProdutos.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmConsultarUsuarios.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirProdutos.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirTipoProdutos.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmExcluirUsuario.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmLogin.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMapa.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.frmMenu.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.PrintOptions.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.Properties.Resources.resources
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.csproj.GenerateResource.Cache
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.exe
+C:\Users\Ryuuzak\Desktop\tcc apresentação\EasyFoodDesktop Implementado 1\EasyFoodDesktop\obj\Debug\EasyFoodDesktop.pdb

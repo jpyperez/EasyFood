@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{05B773EA-FFC8-426E-86BB-B5747C25737B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EasyFoodDesktop</RootNamespace>
+    <AssemblyName>EasyFoodDesktop</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.8.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAjuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAjuda.Designer.cs">
+      <DependentUpon>frmAjuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlterarPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlterarPedido.Designer.cs">
+      <DependentUpon>frmAlterarPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlterarProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlterarProdutos.Designer.cs">
+      <DependentUpon>frmAlterarProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlterarTipoProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlterarTipoProdutos.Designer.cs">
+      <DependentUpon>frmAlterarTipoProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlterarUsuário.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlterarUsuário.Designer.cs">
+      <DependentUpon>frmAlterarUsuário.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarUsuario.Designer.cs">
+      <DependentUpon>frmCadastrarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarProdutos.Designer.cs">
+      <DependentUpon>frmCadastrarProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastrarTipoProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastrarTipoProdutos.Designer.cs">
+      <DependentUpon>frmCadastrarTipoProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultarPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultarPedidos.Designer.cs">
+      <DependentUpon>frmConsultarPedidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultarProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultarProdutos.Designer.cs">
+      <DependentUpon>frmConsultarProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsultarUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsultarUsuarios.Designer.cs">
+      <DependentUpon>frmConsultarUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExcluirProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExcluirProdutos.Designer.cs">
+      <DependentUpon>frmExcluirProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExcluirTipoProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExcluirTipoProdutos.Designer.cs">
+      <DependentUpon>frmExcluirTipoProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExcluirUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExcluirUsuario.Designer.cs">
+      <DependentUpon>frmExcluirUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMapa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMapa.Designer.cs">
+      <DependentUpon>frmMapa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="printDGV.cs" />
+    <Compile Include="PrintOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintOptions.designer.cs">
+      <DependentUpon>PrintOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAjuda.resx">
+      <DependentUpon>frmAjuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlterarPedido.resx">
+      <DependentUpon>frmAlterarPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlterarProdutos.resx">
+      <DependentUpon>frmAlterarProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlterarTipoProdutos.resx">
+      <DependentUpon>frmAlterarTipoProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlterarUsuário.resx">
+      <DependentUpon>frmAlterarUsuário.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarUsuario.resx">
+      <DependentUpon>frmCadastrarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarProdutos.resx">
+      <DependentUpon>frmCadastrarProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastrarTipoProdutos.resx">
+      <DependentUpon>frmCadastrarTipoProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultarPedidos.resx">
+      <DependentUpon>frmConsultarPedidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultarProdutos.resx">
+      <DependentUpon>frmConsultarProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsultarUsuarios.resx">
+      <DependentUpon>frmConsultarUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExcluirProdutos.resx">
+      <DependentUpon>frmExcluirProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExcluirTipoProdutos.resx">
+      <DependentUpon>frmExcluirTipoProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExcluirUsuario.resx">
+      <DependentUpon>frmExcluirUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMapa.resx">
+      <DependentUpon>frmMapa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintOptions.resx">
+      <DependentUpon>PrintOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TextBoxAutoexplicativo\TextBoxAutoexplicativo\TextBoxAutoexplicativo.csproj">
+      <Project>{64210A81-D862-4C30-9F8D-0257C30FCC17}</Project>
+      <Name>TextBoxAutoexplicativo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaopesquisar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telaalterarpedidos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaoalterar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaomostrartudo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\voltar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\voltar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telaMenuPrinc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaoadicionar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaoatualizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaoconsprod.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaoconsultar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaoeditar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaoexcluir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barrainf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barrasup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telalogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boneco %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaoentrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telaalterarproduto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaoalterar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telaalteratipodeprodutos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telacadastrarprodutos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaocadastrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telacadastratipoproduto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telacadastronew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaoimagem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telaconsultarpedido.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaoimprimir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telaconsultarprodutos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telaexcluirprodutos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaoexcluir1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telaexcluir tipo de produto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telamapa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaomapa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telaalterarusuarios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telaexcluirusuarios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telaexcluirusuarios1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boneco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telaexcluir tipo de produto1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telaconsultarusuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\telaimprimir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botaocancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\fondict-03\Documents\C#\TextBoxAutoexplicativo\TextBoxAutoexplicativo\bin\Debug\TextBoxAutoexplicativo.dll
+C:\Users\fondict-03\Documents\C#\TextBoxAutoexplicativo\TextBoxAutoexplicativo\bin\Debug\TextBoxAutoexplicativo.pdb
+C:\Users\fondict-03\Documents\C#\TextBoxAutoexplicativo\TextBoxAutoexplicativo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fondict-03\Documents\C#\TextBoxAutoexplicativo\TextBoxAutoexplicativo\obj\Debug\TextBoxAutoexplicativo.dll
+C:\Users\fondict-03\Documents\C#\TextBoxAutoexplicativo\TextBoxAutoexplicativo\obj\Debug\TextBoxAutoexplicativo.pdb
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\TextBoxAutoexplicativo\TextBoxAutoexplicativo\bin\Debug\TextBoxAutoexplicativo.dll
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\TextBoxAutoexplicativo\TextBoxAutoexplicativo\bin\Debug\TextBoxAutoexplicativo.pdb
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\TextBoxAutoexplicativo\TextBoxAutoexplicativo\obj\Debug\TextBoxAutoexplicativo.csprojResolveAssemblyReference.cache
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\TextBoxAutoexplicativo\TextBoxAutoexplicativo\obj\Debug\TextBoxAutoexplicativo.dll
+C:\Users\Ryuuzak\Desktop\EasyFoodDesktop Implementado 1\TextBoxAutoexplicativo\TextBoxAutoexplicativo\obj\Debug\TextBoxAutoexplicativo.pdb
